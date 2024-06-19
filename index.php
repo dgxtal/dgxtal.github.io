@@ -83,7 +83,7 @@ $conn->close();
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <title>GitHub-like UI</title>
+    <title>Anser's portfolio</title>
     <script>
         function showMyIP() {
             fetch('https://ipinfo.io/json?token=901de406103d6b')
